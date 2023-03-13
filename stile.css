@@ -1,0 +1,76 @@
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(119, 119, 119);
+
+}
+p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1f3f68;
+} 
+
+.header {
+    font-size: 64px;
+    color: #1f3f68;
+}
+ 
+.hi {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+.style {
+    font-size: 36px;
+text-align: center;
+}
+.fore {
+    font-size: 20px;
+    line-height: 30px;
+    color:  #1f3f68;
+}
+.form {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+.submit {
+    background: #5A98D0;
+ box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+ border-radius: 10px;
+ font-weight: 500;
+ font-size: 16px;
+line-height: 26px;
+ text-align: center;
+ color: #FFFFFF;
+ text-transform: uppercase;
+}
+
+
+.menu {
+    border: 3px solid #97c4ff;
+    border-radius: 10px;
+    background-color: rgb(184, 216, 255);
+    padding-bottom: 1px;
+
+} 
+.img {
+    float: right;
+    width: 50%;
+}
+.testing { 
+    margin-top: 100px;
+}
+.contacts {
+    border: 3px solid #97c4ff;
+    background-color: rgb(184, 216, 255);
+}
+.img2 {
+    float: right;
+    width: 500px;
+    margin-right: 200px;
+}
+.yandex {
+    margin-top: 50px;
+}
